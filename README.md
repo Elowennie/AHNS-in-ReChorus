@@ -11,9 +11,13 @@ AHNS的具体实现位置在`src/general/LightGCN.py`
 
 ### 模型运行
 1.进入src文件夹
-`cd src`
+```
+cd src
+```
 2.执行调用实现AHNS的LightGCN模型
-`python .\src\main.py --model_name LightGCN`
+```
+python .\src\main.py --model_name LightGCN
+```
 
 ### 实验结果
 在Grocery_and_Gourmet_Food和MovieLens-1M数据集上进行实验，实验结果部分参数如下：
