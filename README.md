@@ -16,7 +16,7 @@ cd src
 ```
 2.执行调用实现AHNS的LightGCN模型
 ```
-python .\src\main.py --model_name LightGCN
+python main.py --model_name LightGCN
 ```
 
 ### 实验结果
