@@ -15,6 +15,6 @@ AHNS的具体实现位置在`src/general/LightGCN.py`
 2.执行调用实现AHNS的LightGCN模型
 `python .\src\main.py --model_name LightGCN`
 
-###实验结果
+### 实验结果
 ![7164ae587800fe4cda928371f23b448](https://github.com/user-attachments/assets/4544797a-4196-4000-abb4-ea2779e2675a)
 ![8ce74e5354c08b13d6bba6a9f99d2e6](https://github.com/user-attachments/assets/4169e2c5-68db-4ecc-ab43-600fdb39bd57)
